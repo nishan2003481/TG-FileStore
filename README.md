@@ -1,6 +1,6 @@
 ![Anime File Store Bot](https://te.legra.ph/file/6eb81768c1c9d3471837d.jpg)
 
-⍟ 𝗧𝗵𝗶𝘀 𝗶𝘀 Anime 𝗙𝗶𝗹𝗲𝘀 𝗦𝘁𝗼𝗿𝗲 𝗕𝗼𝘁 𝗯𝘆 [@Saga_Anime](https://telegram.dog/Saga_Anime).
+⍟ 𝙏𝙝𝙞𝙨 𝙞𝙨 𝘼𝙣𝙞𝙢𝙚 𝙁𝙞𝙡𝙚𝙨 𝙎𝙩𝙤𝙧𝙚 𝘽𝙤𝙩 𝘽𝙮 [@Saga_Anime](https://telegram.dog/Saga_Anime).
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
