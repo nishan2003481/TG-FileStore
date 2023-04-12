@@ -54,7 +54,7 @@ banned_users - Get All Banned Users [Owner Only]
 👲 <b>DEV</b>
 
 <p align="middle">
-<img src="https://telegra.ph/file/024846dd18debc64c91e8.jpg" width="150" height="150"><br>
+<img src="https://https://te.legra.ph/file/ea0883524438b0b87e740.jpg" width="150" height="150"><br>
 <img src="https://badgen.net/badge/Name/PredatorHackerzZ/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a>
 <a href="https://telegram.dog/kazutorasenpai"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
