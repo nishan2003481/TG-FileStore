@@ -10,7 +10,7 @@
     "repository": "https://github.com/nishan2003481/TG-FileStore",
     "Anime Channel": "https://telegram.dog/Saga_anime",
     "success_url": "https://t.me/anime_Ongoing_Saga",
-    "logo": "https://telegra.ph/file/b39906f572822b3ab82c8.jpg",
+    "logo": "https://te.legra.ph/file/5978d6329486002e5f88f.jpg",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @ApiIdGeneratorBot"
