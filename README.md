@@ -57,6 +57,6 @@ banned_users - Get All Banned Users [Owner Only]
 <img src="https://te.legra.ph/file/ea0883524438b0b87e740.jpg" width="150" height="150"><br>
 <img src="https://badgen.net/badge/Name/kazutorasenpai/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a>
-<a href="https://telegram.dog/kazutorasenpai"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/https://t.me/Anime_share_File_Bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 <a href="https://github.com/nishan2003481"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=Green"></a>
 
