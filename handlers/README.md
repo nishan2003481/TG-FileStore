@@ -1,4 +1,4 @@
-### Botz By [@Saga_Anime](https://t.me/saga_anime
+### Botz By [@Saga_Anime](https://t.me/saga_anime)
 # Bots new Version
 
 ### Special Thanks @PreadtorHackerzZ
