@@ -1,4 +1,4 @@
-# (c) @PredatorHackerzZ
+# (c) @Saga_Anime
 
 import datetime
 import motor.motor_asyncio
