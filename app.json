@@ -33,7 +33,7 @@
         "DATABASE_URL": {
             "description": "MongoDB Database URI for Saving UserID for Broadcast."
         },
-        "UPDATES_CHANNEL": {
+        "ANIME_CHANNEL": {
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
             "required": false
         },
