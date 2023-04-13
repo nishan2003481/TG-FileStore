@@ -1,4 +1,4 @@
-# (c) @TeleRoidGroup || @PredatorHackerzZ
+# (c) @Valhalla006 || @Saga_Anime
 
 import os
 import asyncio
