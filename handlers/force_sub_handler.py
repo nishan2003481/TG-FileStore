@@ -21,9 +21,9 @@ async def get_invite_link(bot: Client, chat_id: Union[str, int]):
 
 
 async def handle_force_sub(bot: Client, cmd: Message):
-    if Config.UPDATES_CHANNEL and Config.UPDATES_CHANNEL.startswith("-100"):
+    if Config.ANIME_CHANNEL and Config.UPDATES_CHANNEL.startswith("-100"):
         channel_chat_id = int(Config.UPDATES_CHANNEL)
-    elif Config.UPDATES_CHANNEL and (not Config.UPDATES_CHANNEL.startswith("-100")):
+    elif Config.ANIME_CHANNEL and (not Config.UPDATES_CHANNEL.startswith("-100")):
         channel_chat_id = Config.UPDATES_CHANNEL
     else:
         return 200
@@ -49,7 +49,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🤖 Join Updates Channel", url=invite_link.invite_link)
+                        InlineKeyboardButton("🤖 Join Anime Channel", url=invite_link.invite_link)
                     ],
                     [
                         InlineKeyboardButton("🔄 Refresh 🔄", callback_data="refreshForceSub")
@@ -61,7 +61,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
     except Exception:
         await bot.send_message(
             chat_id=cmd.from_user.id,
-            text="Something went Wrong. Contact my [Support Group](https://t.me/TeleRoid14).",
+            text="Something went Wrong. Contact my [Request Group](https://t.me/Valhalla006).",
             disable_web_page_preview=True
         )
         return 200
