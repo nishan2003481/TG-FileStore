@@ -38,7 +38,7 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 │
 ├🔸🔔 **Anime Updates:** [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/Saga_anime)
 │
-╰──────[ 😎 ]───────────⍟
+╰──────[ 🥸 ]───────────⍟
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@Kazutorasenpai](https://t.me/kazutorasenpai) 
