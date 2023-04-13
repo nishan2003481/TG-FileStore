@@ -60,7 +60,7 @@ async def start(bot: Client, cmd: Message):
     if cmd.from_user.id in Config.BANNED_USERS:
         await cmd.reply_text("Sorry, You are banned.")
         return
-    if Config.UPDATES_CHANNEL is not None:
+    if Config.ANIME_CHANNEL is not None:
         back = await handle_force_sub(bot, cmd)
         if back == 400:
             return
