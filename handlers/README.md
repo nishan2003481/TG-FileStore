@@ -1,8 +1,7 @@
-### Botz By [@PredatorHackerzZ](https://t.me/TheTeleRoid)
-
+### Botz By [@Saga_Anime](https://t.me/saga_anime
 # Bots new Version
 
-### Special Thanks @AbirHasan2005
+### Special Thanks @PreadtorHackerzZ
 
 # Added With Batch Mode and Ban/Unban Command
 ° Features New Version Of Python And Modules
