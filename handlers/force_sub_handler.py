@@ -21,10 +21,10 @@ async def get_invite_link(bot: Client, chat_id: Union[str, int]):
 
 
 async def handle_force_sub(bot: Client, cmd: Message):
-    if Config.ANIME_CHANNEL and Config.UPDATES_CHANNEL.startswith("-100"):
-        channel_chat_id = int(Config.UPDATES_CHANNEL)
-    elif Config.ANIME_CHANNEL and (not Config.UPDATES_CHANNEL.startswith("-100")):
-        channel_chat_id = Config.UPDATES_CHANNEL
+    if Config.ANIME_CHANNEL and Config.ANIME_CHANNEL.startswith("-100"):
+        channel_chat_id = int(Config.ANIME_CHANNEL)
+    elif Config.ANIME_CHANNEL and (not Config.ANIME_CHANNEL.startswith("-100")):
+        channel_chat_id = Config.ANIME_CHANNEL
     else:
         return 200
     try:
@@ -40,11 +40,11 @@ async def handle_force_sub(bot: Client, cmd: Message):
         try:
             invite_link = await get_invite_link(bot, chat_id=channel_chat_id)
         except Exception as err:
-            print(f"Unable to do Force Subscribe to {Config.UPDATES_CHANNEL}\n\nError: {err}")
+            print(f"Unable to do Force Subscribe to {Config.ANIME_CHANNEL}\n\nError: {err}")
             return 200
         await bot.send_message(
             chat_id=cmd.from_user.id,
-            text="**Please Join My Updates Channel to use this Bot!**\n\n"
+            text="**Please Join My Anime Channel to use this Bot!**\n\n"
                  "Due to Overload, Only Channel Subscribers can use this Bot!",
             reply_markup=InlineKeyboardMarkup(
                 [
