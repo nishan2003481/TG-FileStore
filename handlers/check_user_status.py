@@ -1,4 +1,4 @@
-# (c) Mr. Vishal & @AbirHasan2005 @PredatorHackerzZ
+# (c) Kazutorasenpai & @Zorosensei @Saga_Anime
 
 import datetime
 from configs import Config
