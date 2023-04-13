@@ -26,7 +26,7 @@
 	- Put your Telegram UserID for doing Broadcast.
 - `DATABASE_URL` - MongoDB Database URI
 	- This for Saving UserIDs. When you will Broadcast, bot will forward the Broadcast to DB Users.
-- `UPDATES_CHANNEL` - Force Sub Channel ID *(Optional)*
+- `ANIME_CHANNEL` - Force Sub Channel ID *(Optional)*
 	- ID of a Channel which you want to do Force Sub to use the bot. 
 - `LOG_CHANNEL` - Logs Channel ID
 	- This for some getting user info. If any new User added to DB, Bot will send Log to that Logs Channel. You can use same DB Channel ID.
